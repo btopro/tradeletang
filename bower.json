@@ -1,0 +1,21 @@
+{
+  "name": "tradeletang",
+  "homepage": "https://github.com/btopro/tradeletang",
+  "authors": [
+    "btopro <btopro@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "meme-maker": "LRNWebComponents/meme-maker#^1.0.0",
+    "self-check": "LRNWebComponents/self-check#^0.0.2"
+  }
+}
